@@ -6,7 +6,7 @@ Toolkit for connecting term frequency to keyword search volume
 # Usage
     
     import pandas as pd
-    from search_collection import SearchCounter
+    from search_counter import SearchCounter
     
     df = pd.read_excel('/path/to/file.xlsx',
                   encoding='utf-8')
