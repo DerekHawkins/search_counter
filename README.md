@@ -4,7 +4,6 @@ Toolkit for connecting term frequency to keyword search volume
 # Installation
 
 # Usage
-.. code-block:: bash
     
     import pandas as pd
     from search_collection import SearchCounter
